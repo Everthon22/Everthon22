@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Everthon Santos
 
-💻 Técnico em Informática (3/3) no **IF Goiano**  
+💻 Cursando Técnico em Informática (3/3) no **IF Goiano**  
 🎮 Desenvolvendo um **inventário de jogo em PHP**  
 📘 Apaixonado por aprender e aplicar **lógica de programação**
 
